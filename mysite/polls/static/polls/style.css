@@ -1,0 +1,13 @@
+li a {
+    color: #000080;
+    text-decoration:none;
+}
+
+head{
+    color: #000080;
+    font-family: 'East Sea Dokdo', cursive;
+}
+body {
+    
+    background: white url("images/background.gif") no-repeat;
+}
